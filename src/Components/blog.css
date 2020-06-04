@@ -1,0 +1,68 @@
+.blog{
+    margin-top: 80px;
+    width: 100%;
+    /* text-align: center; */
+    color: black;
+}
+.blog h1{
+    color: black;
+    text-align: center;
+    /* width: 300px; */
+    font-size: 40px;
+}
+.blog h4 {
+    /* text-align: center; */
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    opacity: 0.4;
+    margin-bottom: 120px;
+}
+.rashid{
+
+    display: flex;
+}
+.ii img{
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+.ii{
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.ii h4{
+    margin-left: 20px;
+  
+    margin-bottom: 20px;
+}
+.ii h3{
+    margin-left: 20px;
+    color: orange;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.ii h5 {
+    width: 300px;
+    margin-left: 20px;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-right: 20px;
+    font-size:15px;
+}
+.ii button{
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 200px;
+    height: 40px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+}
+#neww{
+    height: 420px;
+}

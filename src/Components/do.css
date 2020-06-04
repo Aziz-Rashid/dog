@@ -1,0 +1,35 @@
+/* .tt{
+    width: 100%;
+    margin: auto;
+} */
+.tt h1{
+    color: black;
+    width: 100%;
+    text-align: center;
+    margin-top: 120px;
+    font-size: 45px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+.tt p{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    opacity: 0.4;
+    font-size: 20px;
+    /* text-align: justify; */
+}
+.hus{
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.hus img{
+    width: 400px;
+}
+.hus h2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 100;
+}

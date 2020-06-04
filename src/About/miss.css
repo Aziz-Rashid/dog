@@ -1,0 +1,79 @@
+.miss-logo{
+    display: flex;
+    justify-content: space-around;
+}
+.im img{
+    width: 700px;
+    height: 500px;
+}
+.mission{
+    margin-top: 100px;
+    text-align: center;
+}
+.mission h2{
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 50px;
+}
+
+.mission p{
+    text-align: center;
+    /* text-align: justify; */
+    word-spacing: 6px;
+    /* width: 578px; */
+    margin-bottom: 50px;
+    /* letter-spacing: 2px; */
+}
+.mission button{
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+}
+.fl{
+    display: flex;
+    justify-content: space-around;
+    /* position: relative; */
+    /* top:100%; */
+}
+.image img{
+    width: 578px;
+    height: 470px;
+
+}
+.team{
+    /* text-align: center; */
+    margin-top: 50px;
+    /* width: 80%; */
+}
+.team h2{
+    font-size: 45px;
+    font-weight: 100;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.team p{
+    /* width: 800px; */
+    text-align: center;
+    word-spacing: 4px;
+    opacity: 0.7;
+    margin-bottom: 100px;
+}
+.person{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.one{
+    width: 400px;
+    margin-bottom: 30px;
+}
+.j{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 100;
+    margin-bottom: 120px;
+}

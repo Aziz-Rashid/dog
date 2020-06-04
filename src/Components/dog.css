@@ -1,0 +1,40 @@
+#hello{
+    /* width: 100%; */
+    /* text-align: center; */
+    color: black;
+    font-size: 60px;
+    font-weight: 300;
+    margin-top: -150px;
+    margin-bottom: 50px;
+    
+}
+.p{
+    margin-top: -40px;
+    margin-bottom: 70px;
+    color: orange;
+}
+.dog-detail{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.dog-pic img{
+    width: 350px;
+    height: 350px;
+    background-size: cover;
+    margin-left: 70px;
+}
+/* .new{
+    display: flex;
+} */
+ .wou{
+    display: flex;
+    width: 600px;
+    opacity: 0.4;
+    text-align: justify;
+    word-spacing: 6px;
+    /* font-size: 17px; */
+}
+.ahs{
+    padding-left: 80px;
+}

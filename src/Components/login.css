@@ -1,0 +1,40 @@
+.login{
+    background-color: transparent;
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    color: white;
+}
+.login input{
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    margin-bottom: 20px;
+    width: 300px;
+    font-size: 25px;
+    border: none;
+    text-transform: lowercase;
+}
+.login input:focus{
+    background-color: transparent;
+    outline: none;
+}
+.login button{
+    width: 200px;
+    text-align: center;
+    margin-left: 50px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: transparent;
+    color: white;
+    /* border: 0; */
+    font-size: 30px;
+}
+
+
+.login h4{
+    background-color: transparent;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
